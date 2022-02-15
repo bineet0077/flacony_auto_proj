@@ -1,4 +1,4 @@
-web_driver_path = "C:/Users/sharnaga/WORK/sel/chromedriver.exe"
+web_driver_path = "C:/Users/WORK/sel/chromedriver.exe"
 main_url = "https://www.flaconi.de/"
 
 web_ele_path_for_makeup_menu = ["//a[contains(@class,'Navigationstyle__CategoryLink-sc-1r9fvyg-8 jQNSse')][normalize-space()='Teint']",
